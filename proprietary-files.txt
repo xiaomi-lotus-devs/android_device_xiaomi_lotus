@@ -878,7 +878,6 @@ vendor/bin/wmt_fdb
 vendor/bin/wmt_launcher
 vendor/bin/wmt_loader
 vendor/bin/wmt_loopback
-vendor/compatibility_matrix.xml
 vendor/data/misc/pdc.txt
 vendor/etc/.tp/.ht120.mtc
 vendor/etc/aee-config
